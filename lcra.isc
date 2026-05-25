@@ -94,6 +94,7 @@ F;lcra\airfield-layouts\lcra.geo
 F;lcra-nav\lcra-danger-areas.danger
 
 [FILLCOLOR]
+F;lcra-atc\coast.plf
 F;lcra\airfield-layouts\lcra.plf
 
 [PROFILE]
